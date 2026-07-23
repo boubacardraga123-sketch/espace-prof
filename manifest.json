@@ -2,7 +2,7 @@
   "name": "Espace Professeur",
   "short_name": "Espace Prof",
   "description": "Espace de saisie des notes pour les professeurs",
-  "start_url": "./index.html",
+  "start_url": "./espace-prof.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
