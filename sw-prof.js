@@ -1,5 +1,5 @@
 const CACHE_NAME = 'espace-prof-v1';
-const CORE_ASSETS = ['./index.html', './manifest.json', './icon-192.png', './icon-512.png'];
+const CORE_ASSETS = ['./espace-prof.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
